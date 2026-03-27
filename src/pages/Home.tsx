@@ -39,7 +39,7 @@ export const Home = () => {
             Discover curated masterpieces and AI-driven recommendations tailored
             to your unique taste.
           </p>
-          <Link to={"/trending"} className="flex items-center gap-2 px-8 py-4 bg-white text-black font-black rounded-full hover:bg-neutral-200 transition-all transform hover:translate-x-2 w-72">
+          <Link to={"/trending"} className="flex items-center gap-2 px-8 py-4 bg-white text-black font-black rounded-full hover:bg-neutral-200 transition-all transform hover:translate-x-2 w-70">
             Explore Trending <ArrowRight className="w-5 h-5" />
           </Link>
         </div>

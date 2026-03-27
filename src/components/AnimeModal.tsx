@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import type { Anime } from "../types";
-import { Info, Play, X } from "lucide-react";
+import { X } from "lucide-react";
 import {ModalContent} from './ModalContent'
 
 interface AnimeModalProps {
